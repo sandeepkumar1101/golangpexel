@@ -2,5 +2,5 @@ Using Pexels Free Photos and Videos API using golang to get access to high quali
 Implementing React Frontend Over That
 
 ## Demo
-<img src="demo.gif" alt="Alt text">
+<img src="demo.gif" width="800px" alt="Alt text">
 
